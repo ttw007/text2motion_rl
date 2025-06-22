@@ -1,0 +1,37 @@
+# configs/base.yaml
+
+model:
+  input_dim: 768                # Text encoder + optional visual feature dim
+  hidden_dim: 256
+  output_dim: 263               # 3D motion vector dim per frame
+  max_seq_len: 196              # Maximum number of motion frames
+  num_layers: 2
+  num_actions: 263              # Continuous action dim = motion dim
+
+train:
+  lr: 3e-4
+  batch_size: 32
+  total_steps: 100000
+  gamma: 0.99
+  gae_lambda: 0.95
+  clip_range: 0.2
+  vf_coef: 0.5
+  ent_coef: 0.01
+  logdir: runs/text2motion
+  seed: 42
+  update_epochs: 4
+  max_grad_norm: 0.5
+
+env:
+  motion_dim: 263
+  max_motion_len: 196
+  sim_dt: 0.033
+  reward_weights:
+    pos: 1.0
+    vel: 0.5
+    smooth: 0.2
+    match_gt: 2.0
+
+text_encoder:
+  model_name: microsoft/MiniLM-L6-v2
+  max_length: 64

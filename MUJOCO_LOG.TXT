@@ -1,0 +1,72 @@
+Thu Jun 19 21:49:32 2025
+WARNING: Insufficient arena memory for the number of constraints generated. Increase arena memory allocation above 29M bytes. Time = 0.0000.
+
+Thu Jun 19 22:02:31 2025
+WARNING: Insufficient arena memory for the number of constraints generated. Increase arena memory allocation above 29M bytes. Time = 0.0000.
+
+Thu Jun 19 22:56:06 2025
+WARNING: Insufficient arena memory for the number of constraints generated. Increase arena memory allocation above 29M bytes. Time = 0.0000.
+
+Thu Jun 19 23:29:08 2025
+WARNING: Insufficient arena memory for the number of constraints generated. Increase arena memory allocation above 29M bytes. Time = 0.0000.
+
+Thu Jun 19 23:39:50 2025
+WARNING: Insufficient arena memory for the number of constraints generated. Increase arena memory allocation above 29M bytes. Time = 0.0000.
+
+Fri Jun 20 00:08:51 2025
+WARNING: Insufficient arena memory for the number of constraints generated. Increase arena memory allocation above 29M bytes. Time = 0.0000.
+
+Fri Jun 20 00:14:33 2025
+WARNING: Insufficient arena memory for the number of constraints generated. Increase arena memory allocation above 29M bytes. Time = 0.0000.
+
+Fri Jun 20 00:59:28 2025
+WARNING: Insufficient arena memory for the number of constraints generated. Increase arena memory allocation above 29M bytes. Time = 0.0000.
+
+Fri Jun 20 03:02:24 2025
+WARNING: Insufficient arena memory for the number of constraints generated. Increase arena memory allocation above 29M bytes. Time = 0.0000.
+
+Fri Jun 20 03:11:48 2025
+WARNING: Insufficient arena memory for the number of constraints generated. Increase arena memory allocation above 29M bytes. Time = 0.0000.
+
+Fri Jun 20 03:51:01 2025
+WARNING: Insufficient arena memory for the number of constraints generated. Increase arena memory allocation above 29M bytes. Time = 0.0000.
+
+Fri Jun 20 04:18:44 2025
+WARNING: Insufficient arena memory for the number of constraints generated. Increase arena memory allocation above 29M bytes. Time = 0.0000.
+
+Fri Jun 20 04:22:32 2025
+WARNING: Insufficient arena memory for the number of constraints generated. Increase arena memory allocation above 29M bytes. Time = 0.0000.
+
+Fri Jun 20 04:26:28 2025
+WARNING: Insufficient arena memory for the number of constraints generated. Increase arena memory allocation above 29M bytes. Time = 0.0000.
+
+Fri Jun 20 04:38:50 2025
+WARNING: Insufficient arena memory for the number of constraints generated. Increase arena memory allocation above 29M bytes. Time = 0.0000.
+
+Fri Jun 20 04:38:50 2025
+WARNING: Insufficient arena memory for the number of constraints generated. Increase arena memory allocation above 29M bytes. Time = 0.0000.
+
+Fri Jun 20 04:41:05 2025
+WARNING: Insufficient arena memory for the number of constraints generated. Increase arena memory allocation above 29M bytes. Time = 0.0000.
+
+Fri Jun 20 04:48:24 2025
+WARNING: Insufficient arena memory for the number of constraints generated. Increase arena memory allocation above 29M bytes. Time = 0.0000.
+
+Fri Jun 20 05:01:18 2025
+WARNING: Insufficient arena memory for the number of constraints generated. Increase arena memory allocation above 29M bytes. Time = 0.0000.
+
+Fri Jun 20 05:03:32 2025
+WARNING: Insufficient arena memory for the number of constraints generated. Increase arena memory allocation above 29M bytes. Time = 0.0000.
+
+Fri Jun 20 05:16:27 2025
+WARNING: Insufficient arena memory for the number of constraints generated. Increase arena memory allocation above 29M bytes. Time = 0.0000.
+
+Fri Jun 20 06:36:03 2025
+WARNING: Insufficient arena memory for the number of constraints generated. Increase arena memory allocation above 29M bytes. Time = 0.0000.
+
+Fri Jun 20 06:56:48 2025
+WARNING: Insufficient arena memory for the number of constraints generated. Increase arena memory allocation above 29M bytes. Time = 0.0000.
+
+Fri Jun 20 06:58:48 2025
+WARNING: Insufficient arena memory for the number of constraints generated. Increase arena memory allocation above 29M bytes. Time = 0.0000.
+
